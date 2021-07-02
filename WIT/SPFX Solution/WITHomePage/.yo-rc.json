@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.11.0",
+    "libraryName": "withomepagewebpart",
+    "libraryId": "357204c6-f0c0-4c42-9d63-5a4e19e65f01",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

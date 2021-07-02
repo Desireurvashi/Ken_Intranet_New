@@ -1,0 +1,20 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "26951674-0c64-42f1-8094-68b2fc55693f",
+  "alias": "HomepagewitWebPart",
+  "componentType": "WebPart",
+  "version": "*",
+  "manifestVersion": 2,
+  "requiresCustomScript": false,
+  "supportsFullBleed": true,
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70", 
+    "group": { "default": "Other" },
+    "title": { "default": "HOMEPAGEWIT" },
+    "description": { "default": "HOMEPAGEWIT description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "HOMEPAGEWIT"
+    }
+  }]
+}

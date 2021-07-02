@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "withomepagewebpart-client-side-solution",
+    "id": "357204c6-f0c0-4c42-9d63-5a4e19e65f01",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/withomepagewebpart.sppkg"
+  }
+}
